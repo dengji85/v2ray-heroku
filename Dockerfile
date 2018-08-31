@@ -1,6 +1,6 @@
 #aa
 #FROM alpine:latest
-FROM heroku/heroku:18
+FROM heroku/heroku:19
 
 #ENV CONFIG_JSON1={\"log\":{\"access\":\"\",\"error\":\"\",\"loglevel\":\"warning\"},\"inbound\":{\"protocol\":\"vmess\",\"port\": 
 #ENV CONFIG_JSON2=,\"settings\":{\"clients\":[{\"id\":\" 
